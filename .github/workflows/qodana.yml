@@ -1,3 +1,6 @@
+name: qodana
+on:
+  - push
 jobs:
   qodana:
     runs-on: ubuntu-latest
